@@ -1,0 +1,26 @@
+body {
+		background-color: black; margin: 50px, 100px;
+	}
+	h1 {
+		font-family: "Tahoma", geneva, sans-serif;
+		font-size: 32px; color: white; ￼font-style: normal;
+		}
+		
+	h2 {
+		font-family: "Tahoma", geneva, sans-serif;
+			font-size: 18px; color: gray; font-style: normal;
+		}
+		
+
+	title, h3 {
+		font-family: "Tahoma", geneva, sans-serif;
+		color: white; font-size: 12px; font-style: normal;
+		}
+	p
+		{
+	font-family: "Tahoma", geneva, sans-serif;
+
+		font-size: 12px; color: white; 
+	}
+
+/*font colors not right-argh*/

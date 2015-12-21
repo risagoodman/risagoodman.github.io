@@ -1,9 +1,26 @@
 body {
 		background-color: black ;
-}
-h1, h2, p {
-		color: gray ;
-}
-title, h3 {
-	color: white ;
-}
+	}
+	h1 {
+		font-family: "Tahoma", geneva, sans-serif;
+		font-size: 32px; color: white; ￼font-style: normal;
+		}
+		
+	h2 {
+		font-family: "Tahoma", geneva, sans-serif;
+			font-size: 18px; color: gray; font-style: normal;
+		}
+		
+
+	title, h3 {
+		font-family: "Tahoma", geneva, sans-serif;
+		color: white; font-size: 14px; font-style: italic;
+		}
+	p
+		{
+	font-family: "Tahoma", geneva, sans-serif;
+
+		font-size: 12px; color: white; 
+	}
+
+/*In the code above it starts with "body" -- does this apply to the entire page, including the header, or do i need to apply the CSS to the header too?*/

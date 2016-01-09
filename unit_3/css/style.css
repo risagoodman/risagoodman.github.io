@@ -1,24 +1,29 @@
+@import url(https://fonts.googleapis.com/css?family=Vast+Shadow);
+@import url(https://fonts.googleapis.com/css?family=Vollkorn);
+@import url(https://fonts.googleapis.com/css?family=Fjalla+One);
+
+
 body {
 		background-color: black; margin: 50px, 100px;
 	}
 	h1 {
-		font-family: "Tahoma", geneva, sans-serif;
+		font-family: 'Vast Shadow', cursive, 'tahoma', geneva, sans-serif;
 		font-size: 32px; color: white; ￼font-style: normal;
 		}
 		
 	h2 {
-		font-family: "Tahoma", geneva, sans-serif;
+		font-family: 'Fjalla One', sans-serif; 'times new roman': serif;
 			font-size: 18px; color: gray; font-style: normal;
 		}
 		
 
 	title, h3 {
-		font-family: "Tahoma", geneva, sans-serif;
-		color: white; font-size: 12px; font-style: normal;
+		font-family: 'Vollkorn', serif, tahoma, geneva, sans-serif;
+		color: white; font-size: 14px; font-style: bold;
 		}
 	p
 		{
-	font-family: "Tahoma", geneva, sans-serif;
+		font-family: 'Vollkorn', serif;
 
 		font-size: 12px; color: white; 
 	}

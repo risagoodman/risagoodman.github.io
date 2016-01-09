@@ -1,7 +1,13 @@
 
-To apply padding to a selector:
-
+ /* To apply padding to a selector: */
 
 p {
     	padding: 1cm;
 		} 
+		------
+
+
+		to make the background a picture
+
+		background: URL("URL of picture");
+		background-size: cover;  < to make it look nicer

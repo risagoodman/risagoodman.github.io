@@ -24,9 +24,15 @@ body {
 	p
 		{
 		font-family: 'Vollkorn', serif;
+		font-size: 12px; color: white; 
+		width: 750px;
+		float: left;
+		margin: 5px;
+		padding: 5px;
+		background-color: #efefef;
 
-		font-size: 16px; color: white; 
-	}
+		}
+	
 	
 
 /*In the code above it starts with "body" -- does this apply to the entire page, including the header, or do i need to apply the CSS to the header too?*/
